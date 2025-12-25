@@ -345,7 +345,7 @@ I'm Edward Elric.
 
 78
 00:05:55,820 --> 00:05:57,640
-The Full Metal Alchemist.
+The Fullmetal Alchemist.
 
 79
 00:05:58,000 --> 00:06:00,140
@@ -362,7 +362,7 @@ The, uh, Elric brothers?
 82
 00:06:04,840 --> 00:06:07,240
 State Alchemist, Hero
-of the People Elric?
+of the People, Elric?
 
 83
 00:06:07,520 --> 00:06:08,000
@@ -378,8 +378,8 @@ Shut up.
 
 86
 00:06:14,460 --> 00:06:18,280
-The real Elric brothers are already
-working to save our town up there with Mugear.
+The real Elric brothers are already working
+to save our town up there with Mugear.
 
 87
 00:06:18,281 --> 00:06:21,120
@@ -388,8 +388,8 @@ to tell us who you really are.
 
 88
 00:06:45,080 --> 00:06:48,100
-Now why would somebody go
-around using our names?
+Now why would somebody
+go around using our names?
 
 89
 00:06:49,280 --> 00:06:51,940
@@ -411,7 +411,7 @@ about the Philosopher's Stone.
 
 93
 00:07:11,392 --> 00:07:12,714
-Brother was that?
+Brother was that...?
 
 94
 00:07:13,460 --> 00:07:14,688
@@ -456,7 +456,7 @@ Me?
 
 103
 00:07:42,140 --> 00:07:43,240
-No you don't!
+No you dolt!
 
 104
 00:07:43,241 --> 00:07:44,160
@@ -555,7 +555,7 @@ people looking down on you.
 
 125
 00:08:35,520 --> 00:08:37,060
-An auto-mail arm, huh?
+An automail arm, huh?
 
 126
 00:08:37,280 --> 00:08:39,360
@@ -575,7 +575,7 @@ damaging my name!
 129
 00:08:57,060 --> 00:09:02,459
 You know I've always wanted to find out
-what a bonafide state alchemist is capable of.
+what a bonafide State Alchemist is capable of.
 
 130
 00:09:02,520 --> 00:09:04,966
@@ -592,13 +592,13 @@ You don't need a circle, huh?
 
 133
 00:09:12,600 --> 00:09:14,960
-The fakie doesn't
+The fake-you doesn't
 need a circle either!
 
 134
 00:09:18,100 --> 00:09:21,680
-How did you... you have
-a philosopher's stone?
+How did you--you have
+a Philosopher's Stone?
 
 135
 00:09:25,670 --> 00:09:27,090
@@ -618,7 +618,7 @@ I feel sore all over.
 
 139
 00:09:36,560 --> 00:09:38,620
-The fakie was
+The fake-you was
 pretty powerful, huh?
 
 140
@@ -633,7 +633,7 @@ giving him a boost.
 142
 00:09:42,420 --> 00:09:45,160
 Does that mean they've finished
-making a philosopher's stone?
+making a Philosopher's Stone?
 
 143
 00:09:46,420 --> 00:09:48,860
@@ -643,7 +643,7 @@ we're going to find out.
 144
 00:09:51,660 --> 00:09:54,880
 You know, I wonder what
-those brothers' real names are.
+those brothers real names are.
 
 145
 00:09:55,260 --> 00:09:57,440
@@ -653,7 +653,7 @@ really brothers at all.
 146
 00:10:00,500 --> 00:10:04,980
 And I wonder if the older brother's
-actually much older than you are, or...
+actually much older than you are, or--
 
 147
 00:10:05,980 --> 00:10:07,560
@@ -707,7 +707,7 @@ for the research Dad devoted his entire life to.
 
 158
 00:10:33,840 --> 00:10:35,163
-Don't worry.
+But what if-- Don't worry.
 
 159
 00:10:35,270 --> 00:10:38,066
@@ -825,7 +825,7 @@ just like an ice pack.
 184
 00:12:04,630 --> 00:12:07,230
 Glad I could be of some
-comfort to you, brother.
+comfort to you, Brother.
 
 185
 00:12:07,550 --> 00:12:08,630
@@ -930,7 +930,7 @@ That must hurt.
 
 207
 00:13:28,560 --> 00:13:30,840
-Did somebody hit you because
+Did somebody hit you 'cause
 you were telling lies again?
 
 208
@@ -950,7 +950,8 @@ ones who snuck into Mugear's mansion
 
 211
 00:13:38,421 --> 00:13:40,000
-last night, do you pretend brothers?
+last night, do you
+pretend brothers?
 
 212
 00:13:40,260 --> 00:13:41,280
@@ -981,7 +982,7 @@ I can find out in town.
 
 218
 00:13:57,970 --> 00:13:58,330
-Brother.
+Brother!
 
 219
 00:14:01,550 --> 00:14:02,524
@@ -1112,7 +1113,7 @@ we had to have some credibility.
 247
 00:15:21,260 --> 00:15:26,020
 The only way my brother could pass for a
-state alchemist as a teenager was to claim
+State Alchemist as a teenager was to claim
 
 248
 00:15:26,021 --> 00:15:27,620
@@ -1120,13 +1121,13 @@ he was the famous Edward Elric.
 
 249
 00:15:28,480 --> 00:15:31,131
-You want a philosopher's
-stone that badly?
+You want a Philosopher's
+Stone that badly?
 
 250
 00:15:31,980 --> 00:15:36,278
 My father... He devoted his
-entire life to working on the stone.
+entire life to working on the Stone.
 
 251
 00:15:37,860 --> 00:15:40,600
@@ -1251,7 +1252,7 @@ Why are you running?
 278
 00:17:08,620 --> 00:17:10,500
 That imposter is
-around here somewhere.
+around here somewhere!
 
 279
 00:17:10,760 --> 00:17:11,760
@@ -1259,7 +1260,7 @@ Have you seen him?
 
 280
 00:17:12,260 --> 00:17:14,200
-Um, no.
+Uh! Um, no.
 
 281
 00:17:14,820 --> 00:17:16,180
@@ -1352,11 +1353,11 @@ So that's their plan.
 301
 00:18:38,760 --> 00:18:41,700
 I think this is the chemical
-used to produce the redstone.
+used to produce the red stone.
 
 302
 00:18:42,140 --> 00:18:43,380
-What redstone?
+What red stone?
 
 303
 00:18:43,580 --> 00:18:46,280
@@ -1375,7 +1376,7 @@ few megatons of pressure till it turns to stone.
 
 306
 00:18:55,220 --> 00:18:56,500
-A philosopher's stone?
+A Philosopher's Stone?
 
 307
 00:18:56,820 --> 00:18:58,520
@@ -1384,7 +1385,7 @@ No, more like a cheap imitation.
 308
 00:18:59,260 --> 00:19:04,180
 I think there was some alchemist named Nash
-or something who was researching the redstone.
+or something who was researching the red stone.
 
 309
 00:19:04,181 --> 00:19:06,280
@@ -1483,7 +1484,7 @@ been polluting the whole town.
 331
 00:19:57,440 --> 00:20:01,691
 But it's... it's the vital ingredient
-for creating a redstone.
+for creating a red stone.
 
 332
 00:20:02,960 --> 00:20:06,651
@@ -1510,7 +1511,7 @@ I can't let you do that.
 337
 00:20:19,460 --> 00:20:22,860
 After all the work we put into
-it, we finally created a redstone.
+it, we finally created a red stone.
 
 338
 00:20:23,180 --> 00:20:26,800
@@ -1542,7 +1543,7 @@ Mine's the genuine article.
 
 344
 00:21:02,510 --> 00:21:03,430
-What the...
+What the--
 
 345
 00:21:04,410 --> 00:21:06,090
@@ -1581,11 +1582,11 @@ Never.
 353
 00:21:23,690 --> 00:21:26,750
 I'm not giving up to some
-naive kid who's desperate to be.
+naïve kid who's desperate to be
 
 354
 00:21:26,890 --> 00:21:28,314
-Just like Daddy.
+just like Daddy!
 
 355
 00:21:33,170 --> 00:21:33,690
@@ -1601,8 +1602,8 @@ Fletcher, hang in there.
 
 358
 00:21:53,700 --> 00:21:58,260
-Brother, the reason Dad wanted to create
-a redstone was to bring happiness to people
+Brother, the reason Dad wanted to create a
+red stone was to bring happiness to people
 
 359
 00:21:58,261 --> 00:21:59,637
@@ -1626,15 +1627,16 @@ gets the credit anymore.
 363
 00:22:12,100 --> 00:22:17,694
 Because this isn't... Because Dad would
-be ashamed if he could see what we've done.
+be ashamed if he could see what we've done!
 
 364
 00:23:38,370 --> 00:23:40,290
-Full metal alchemist!
+Fullmetal Alchemist
 
 365
 00:23:40,777 --> 00:23:44,377
-The Other Brothers Elric Part 2.
+Episode 12: The Other
+Brothers Elric, Part 2.
 
 366
 00:23:45,690 --> 00:23:48,190
