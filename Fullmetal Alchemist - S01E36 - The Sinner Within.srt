@@ -140,7 +140,7 @@ Equivalent trade.
 30
 00:01:32,050 --> 00:01:35,770
 Though it's not one of our people's
-philosophies, I admire its attempted balance.
+philosophies, I admire its attempt at balance.
 
 31
 00:01:36,250 --> 00:01:37,170
@@ -1633,7 +1633,7 @@ have to make for myself.
 
 363
 00:20:29,830 --> 00:20:30,910
-This is WWrath.
+This is Wrath.
 
 364
 00:20:31,110 --> 00:20:32,270
