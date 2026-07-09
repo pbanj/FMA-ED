@@ -51,15 +51,15 @@ everything you have left.
 
 13
 00:00:59,190 --> 00:01:00,695
-No you won't!
+No, you won't!
 
 14
 00:01:08,485 --> 00:01:08,965
-No Al!
+No, Al!
 
 15
 00:01:12,306 --> 00:01:13,026
-Al don't!
+Al, don't!
 
 16
 00:01:18,630 --> 00:01:19,475
@@ -87,11 +87,11 @@ body into different materials.
 21
 00:01:34,385 --> 00:01:36,090
 By forming a
-circle with its arms.
+circle with
 
 22
 00:01:36,110 --> 00:01:37,675
-His left leg and right arm.
+his left leg and right arm.
 
 23
 00:01:37,770 --> 00:01:41,735
@@ -169,7 +169,7 @@ belongs to Izumi.
 40
 00:02:51,546 --> 00:02:53,837
 So what exactly do
-you want Edward?
+you want, Edward?
 
 41
 00:02:53,861 --> 00:02:55,665
@@ -178,17 +178,17 @@ Only what's mine!
 42
 00:02:56,819 --> 00:03:00,436
 This leg was the price you paid.
-You got sommething for it didn't you?
+You got something for it, didn't you?
 
 43
 00:03:03,975 --> 00:03:06,516
-And in exchange you
-got your brothers soul.
+And in exchange for this arm here,
+you got your brother's soul.
 
 44
 00:03:09,101 --> 00:03:14,505
 Tell me, what price are you willing to pay now
-to get your limbs back and deprive me of mine.
+to get your limbs back and deprive me of mine?
 
 45
 00:03:16,200 --> 00:03:17,025
@@ -347,7 +347,7 @@ attempted a human transmutation.
 79
 00:07:22,241 --> 00:07:25,825
 And that is definitely
-my business Fullmetal.
+my business, Fullmetal.
 
 80
 00:07:27,700 --> 00:07:29,565
@@ -600,12 +600,12 @@ He's been shot!
 But I didn't hear a gun.
 
 136
-00:10:16,080 --> 00:10:16,585
-Hold.
+00:10:25,980 --> 00:10:27,265
+No, hold your fire!
 
 137
-00:10:27,080 --> 00:10:28,765
-your fire, you bastards!
+00:10:27,589 --> 00:10:29,089
+Hold your fire, you bastards!
 
 138
 00:10:36,000 --> 00:10:37,485
@@ -868,7 +868,7 @@ that Homunculus back to the other side.
 
 198
 00:13:11,520 --> 00:13:13,080
-That's none of your concern boys.
+That's none of your concern, boys.
 
 199
 00:13:14,100 --> 00:13:16,885
@@ -913,8 +913,8 @@ We've no choice.
 
 208
 00:13:45,780 --> 00:13:49,260
-I've received reports from Central
-that the Führer has in fact traveled south.
+I've received reports from Central that
+the Führer has - in fact - traveled south.
 
 209
 00:13:49,261 --> 00:13:52,405
@@ -933,7 +933,7 @@ what we were told yesterday.
 212
 00:13:57,480 --> 00:14:02,137
 So if the Führer has made it his direct
-responsibility to capture the fugitive Homunculus.
+responsibility to capture the fugitive Homunculus...
 
 213
 00:14:02,960 --> 00:14:07,465
@@ -1030,7 +1030,7 @@ Of course he does.
 
 233
 00:15:23,110 --> 00:15:25,955
-To obtain something of
+To obtain, something of
 equal value must be lost.
 
 234
@@ -1552,7 +1552,7 @@ Then we're clear.
 
 352
 00:21:41,060 --> 00:21:48,185
-You're gonna come with U...
+You're gonna come with u-
 I decided not to go with strangers.
 
 353

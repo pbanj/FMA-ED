@@ -17,11 +17,11 @@ What do you think is the matter?
 5
 00:00:22,390 --> 00:00:25,110
 Once again I'll have to
-listen to Colonel Sarcasm.
+listen to Colonel Sarcasm
 
 6
 00:00:25,130 --> 00:00:26,370
-Tell me how I screwed up.
+tell me how I screwed up.
 
 7
 00:00:26,550 --> 00:00:28,710
@@ -108,7 +108,7 @@ without first giving something in return.
 
 26
 00:01:18,140 --> 00:01:21,694
-To obtain something of
+To obtain, something of
 equal value must be lost.
 
 27
@@ -201,7 +201,7 @@ He was all on his own.
 
 48
 00:03:49,430 --> 00:03:50,430
-MSG fury.
+MSG Fuery...
 
 49
 00:03:50,710 --> 00:03:52,290
@@ -220,7 +220,7 @@ in the NCO living quarters.
 52
 00:03:57,810 --> 00:04:00,750
 Well, that certainly doesn't mean
-you can keep him in the office, Kane.
+you can keep him in the office, Kain.
 
 53
 00:04:01,130 --> 00:04:01,970
@@ -567,11 +567,11 @@ it, no matter what.
 
 132
 00:07:18,010 --> 00:07:18,437
-Colonel
+Colonel,
 
 133
 00:07:18,720 --> 00:07:21,640
-Tell me if the name Marcoh
+tell me if the name Marcoh
 rings any bells for you.
 
 134
@@ -653,7 +653,7 @@ Everybody at ease now.
 
 151
 00:08:17,920 --> 00:08:19,320
-Fuhrer Bradley, welcome, sir.
+Führer Bradley, welcome, sir.
 
 152
 00:08:20,880 --> 00:08:23,240
@@ -662,7 +662,7 @@ questions, Colonel.
 
 153
 00:08:23,400 --> 00:08:25,740
-The Fuhrer and his staff
+The Führer and his staff
 will run this place, both to
 
 154
@@ -682,7 +682,7 @@ Look at all those chains.
 157
 00:08:35,980 --> 00:08:37,820
 Those are for the
-silver Pocket Watches.
+silver pocket watches.
 
 158
 00:08:37,821 --> 00:08:39,862
@@ -696,7 +696,7 @@ Yeah.
 160
 00:08:40,500 --> 00:08:42,900
 Means every one of these
-guys is a full -fledged alchemist.
+guys is a full-fledged alchemist.
 
 161
 00:08:47,190 --> 00:08:49,330
@@ -822,7 +822,7 @@ I can definitely tell.
 187
 00:09:47,590 --> 00:09:50,130
 Did I hear you say the
-name Marcoh Fullmetal?
+name Marcoh, Fullmetal?
 
 188
 00:09:50,770 --> 00:09:52,130
@@ -1161,7 +1161,7 @@ and they never once beg for a paycheck.
 
 265
 00:12:26,080 --> 00:12:29,060
-Trust me, Fury, they're
+Trust me, Fuery, they're
 the great servants of man!
 
 266
@@ -1181,7 +1181,7 @@ would worry you some.
 
 269
 00:12:38,520 --> 00:12:41,600
-Come on, the Fuhrer knows it
+Come on, the Führer knows it
 wouldn't be fair with me against the kid.
 
 270
@@ -1201,7 +1201,7 @@ the battle assessment.
 
 273
 00:12:50,680 --> 00:12:52,660
-But, Fuhrer... Fuhrer's
+But, Führer... Führer's
 spoken, Colonel.
 
 274
@@ -1247,7 +1247,7 @@ my orders, at least until I
 
 283
 00:13:14,769 --> 00:13:16,960
-become Fuhrer and every
+become Führer and every
 one of them is obeying me.
 
 284
@@ -1283,7 +1283,7 @@ I say it because it's true.
 
 291
 00:13:30,180 --> 00:13:32,060
-And when I'm Fuhrer,
+And when I'm Führer,
 there will be changes.
 
 292
@@ -1310,7 +1310,7 @@ Ladies and Gentlemen!
 
 297
 00:13:54,306 --> 00:13:57,035
-Welcome To the Eastern
+Welcome to the Eastern
 Command Center Festival!
 
 298
@@ -1613,7 +1613,7 @@ make flames anymore, can you?
 
 366
 00:16:54,790 --> 00:16:55,810
-Advantage, Elric!
+That's advantage, Elric!
 
 367
 00:17:22,569 --> 00:17:24,085
@@ -1648,7 +1648,7 @@ two skilled alchemists.
 374
 00:17:48,310 --> 00:17:50,490
 We are honored by
-your compliment, Fuhrer.
+your compliment, Führer.
 
 375
 00:17:50,550 --> 00:17:51,410
@@ -1679,7 +1679,7 @@ but to spend time together now.
 
 381
 00:18:09,380 --> 00:18:11,600
-The Fuhrer ordered
+The Führer ordered
 them both to fix the mess.
 
 382
@@ -1772,7 +1772,7 @@ You mean he's alive?
 
 401
 00:19:39,470 --> 00:19:41,690
-Colonel. You still
+Colonel, you still
 haven't told me yet.
 
 402
@@ -1791,7 +1791,7 @@ You don't have to say.
 405
 00:19:52,340 --> 00:19:57,040
 Well, if you've got no other candidates...
-I guess I can handle him, Kane.
+I guess I can handle him, Kain.
 
 406
 00:19:57,380 --> 00:19:57,700
@@ -1944,7 +1944,7 @@ The bigwigs.
 
 438
 00:21:46,510 --> 00:21:49,490
-They kept wearing the Fuhrer
+They kept wearing the Führer
 down until he agreed to move us.
 
 439
@@ -1958,7 +1958,7 @@ five officer slayings in Central.
 
 441
 00:21:59,650 --> 00:22:00,770
-You wont win!
+You won't win!
 
 442
 00:22:00,890 --> 00:22:01,790

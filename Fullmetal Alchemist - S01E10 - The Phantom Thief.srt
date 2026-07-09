@@ -1,6 +1,6 @@
 ﻿1
 00:00:03,600 --> 00:00:04,440
-Disguarding two.
+Discarding two.
 
 2
 00:00:05,260 --> 00:00:06,780
@@ -214,7 +214,7 @@ Come back.
 50
 00:03:52,220 --> 00:03:53,920
 I want everything
-you won for me.
+you won from me.
 
 51
 00:03:54,100 --> 00:03:55,900
@@ -271,7 +271,7 @@ City Dust Bowl and having to see the
 
 63
 00:04:56,631 --> 00:04:58,490
-colonels know-it-all
+colonel's know-it-all
 grin, don't you think?
 
 64
@@ -334,11 +334,11 @@ short for a hero.
 
 77
 00:05:34,810 --> 00:05:36,030
-Who are you calling so small?
+Who are you calling so small
 
 78
 00:05:36,070 --> 00:05:37,219
-You want to crush like an ant?!
+you want to crush like an ant?!
 
 79
 00:05:37,370 --> 00:05:38,310
@@ -623,7 +623,7 @@ That looks dangerous.
 
 144
 00:07:47,030 --> 00:07:48,130
-Let me do it, brother.
+Let me do it, Brother.
 
 145
 00:07:48,190 --> 00:07:49,090
@@ -824,7 +824,7 @@ This is it.
 
 192
 00:09:36,690 --> 00:09:37,630
-Psiren's next Mark.
+Psiren's next mark.
 
 193
 00:09:37,790 --> 00:09:41,170
@@ -909,7 +909,7 @@ Clever move.
 
 211
 00:10:37,507 --> 00:10:38,354
-Come on Al.
+Come on, Al.
 
 212
 00:10:48,299 --> 00:10:49,599
@@ -1364,7 +1364,7 @@ What's going on here?
 315
 00:16:17,790 --> 00:16:19,630
 Don't tell me that
-Flake tricked us.
+flake tricked us.
 
 316
 00:16:19,790 --> 00:16:20,750
@@ -1590,7 +1590,7 @@ You guessed it.
 367
 00:18:04,840 --> 00:18:07,360
 But maybe we shouldn't
-talk about it with the K.I.D.s.
+talk about it with the K-I-Ds.
 
 368
 00:18:07,400 --> 00:18:08,300
@@ -1733,7 +1733,7 @@ one last bloom before we drown.
 
 399
 00:19:27,310 --> 00:19:28,450
-What do you think, brother?
+What do you think, Brother?
 
 400
 00:19:29,150 --> 00:19:31,210
@@ -1985,7 +1985,7 @@ Elric, Part 1.
 
 456
 00:23:45,090 --> 00:23:47,230
-Another Brother, Another me.
+Another Brother, another me.
 
 457
 00:23:47,430 --> 00:23:50,530

@@ -248,7 +248,7 @@ This is too easy.
 55
 00:04:32,680 --> 00:04:34,226
 She was great,
-wasn't she, brother?
+wasn't she, Brother?
 
 56
 00:04:34,840 --> 00:04:35,980
@@ -309,7 +309,7 @@ it in front of you.
 68
 00:05:01,080 --> 00:05:02,734
 Oh please, you wouldn't
-have done it anyway.
+have done it, anyway.
 
 69
 00:05:03,180 --> 00:05:05,380
@@ -340,7 +340,7 @@ named Majhal.
 
 75
 00:05:25,300 --> 00:05:26,880
-That was an accident, brother.
+That was an accident, Brother.
 
 76
 00:05:27,040 --> 00:05:27,620
@@ -357,7 +357,7 @@ close to killing all those prisoners.
 
 79
 00:05:33,300 --> 00:05:38,900
-When it met a chance to return Al to his
+When it meant a chance to return Al to his
 body, their lives seemed like nothing to me.
 
 80
@@ -546,7 +546,7 @@ did you shoot in the first place?
 123
 00:07:58,440 --> 00:08:00,560
 That shot was for the
-bruise you gave Fury.
+bruise you gave Fuery.
 
 124
 00:08:07,130 --> 00:08:08,130
@@ -657,7 +657,7 @@ took away their will to fight.
 
 147
 00:09:06,790 --> 00:09:11,090
-Had not acted so quickly, there would
+Had he not acted so quickly, there would
 have been untold casualties on both sides.
 
 148
@@ -678,7 +678,7 @@ you're a soldier too.
 151
 00:09:22,150 --> 00:09:26,190
 We've decided to transfer most of the
-Ishbalans to the Southern Encampments.
+Ishbalans to the southern encampments.
 
 152
 00:09:26,310 --> 00:09:30,782
@@ -697,7 +697,7 @@ with them, right?
 
 155
 00:09:36,710 --> 00:09:39,270
-The man you used to live in
+The man who used to live in
 the hut where you found us.
 
 156
@@ -788,7 +788,7 @@ So we'll all know what they are.
 175
 00:10:28,540 --> 00:10:30,360
 And what's their
-betrayal exactly?
+betrayal, exactly?
 
 176
 00:10:30,460 --> 00:10:31,480
@@ -842,7 +842,7 @@ She was the nicest mom ever.
 187
 00:11:03,900 --> 00:11:08,921
 And even though she couldn't see, she gave
-all her time to help others up at the hospital.
+all her time to help others - up at the hospital.
 
 188
 00:11:09,800 --> 00:11:10,780
@@ -850,11 +850,11 @@ Is that so?
 
 189
 00:11:13,580 --> 00:11:15,060
-The Philosopher Stone?
+The Philosopher's Stone?
 
 190
 00:11:15,990 --> 00:11:18,376
-You know you're the third
+You know, you're the third
 person to ask me about that.
 
 191
@@ -978,12 +978,12 @@ It's impossible.
 
 218
 00:12:31,840 --> 00:12:33,700
-You don't believe the Ishbalans.
+You don't believe the Ishbalans -
 
 219
 00:12:33,860 --> 00:12:37,460
-Having no industrialized society and
-living in the middle of the desert could.
+having no industrialized society and
+living in the middle of the desert - could
 
 220
 00:12:37,760 --> 00:12:39,556
@@ -1043,7 +1043,7 @@ tribe lost to genocide.
 
 232
 00:13:21,940 --> 00:13:25,720
-Atrocities of war so horrific
+Atrocities of war so horrific,
 all that remain are the graves.
 
 233
@@ -1067,7 +1067,7 @@ Then you were right.
 
 237
 00:13:42,500 --> 00:13:44,900
-The theory is the same just
+The theory is the same, just
 to a more gruesome degree.
 
 238
@@ -1127,7 +1127,7 @@ Don't do it!
 
 250
 00:14:28,880 --> 00:14:29,618
-You make it!
+You won't make it!
 
 251
 00:14:32,300 --> 00:14:34,080
@@ -1141,7 +1141,7 @@ the peace that they were promised?
 253
 00:14:40,220 --> 00:14:43,380
 Unless I forge a power
-greater than the Military's.
+greater than the military's.
 
 254
 00:14:43,440 --> 00:14:44,940
@@ -1273,7 +1273,7 @@ Not here.
 282
 00:16:16,920 --> 00:16:18,600
 You know what I'm
-thinking, brother?
+thinking, Brother?
 
 283
 00:16:19,190 --> 00:16:21,767
@@ -1493,7 +1493,7 @@ I'm going back to Central.
 
 332
 00:18:42,700 --> 00:18:47,725
-And if it's alright with Lieutenant Hawkeye,
+And if it's all right with Lieutenant Hawkeye,
 I'd like to go back with her to see Mr.
 
 333
