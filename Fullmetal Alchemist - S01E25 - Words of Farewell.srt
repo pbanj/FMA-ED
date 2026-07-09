@@ -61,7 +61,7 @@ It was a war.
 
 15
 00:00:59,140 --> 00:01:01,350
-Easy for you to say
+Easy for you to say,
 you weren't there.
 
 16
@@ -71,7 +71,7 @@ No, I wasn't.
 17
 00:01:02,880 --> 00:01:06,296
 And if you didn't want to kill enemies in
-battle, you shouldn't have been there either.
+battle, you shouldn't have been there, either.
 
 18
 00:01:06,320 --> 00:01:08,390
@@ -81,7 +81,7 @@ for a desk job like I did.
 19
 00:01:08,560 --> 00:01:11,670
 Did you think if you became a state
-alchemist you could fix everything?
+alchemist, you could fix everything?
 
 20
 00:01:11,780 --> 00:01:14,890
@@ -199,7 +199,7 @@ my own investigation.
 46
 00:02:22,200 --> 00:02:26,927
 I've found that Brigadier General Basque Grand
-may have allied with some Ishbalan remnants.
+may have allied with some Ishbalan remnants
 
 47
 00:02:26,941 --> 00:02:29,996
@@ -420,8 +420,8 @@ All right.
 
 95
 00:06:24,890 --> 00:06:30,600
-So, all the higher-up officers who we assume were in
-Lab Five's chain of command either died or fell off the map.
+So, all the higher-up officers - who we assume were in
+Lab Five's chain of command - either died or fell off the map.
 
 96
 00:06:30,840 --> 00:06:34,300
@@ -464,7 +464,7 @@ honestly don't care about that stuff anymore.
 
 104
 00:06:58,350 --> 00:07:00,426
-What do you mean you don't care?
+What do you mean, you don't care?
 
 105
 00:07:00,450 --> 00:07:01,180
@@ -619,7 +619,7 @@ they're kids sometimes.
 
 139
 00:08:34,360 --> 00:08:35,940
-What do you mean
+What do you mean,
 we're not going to Dublith?
 
 140
@@ -659,13 +659,13 @@ Killed?
 
 148
 00:08:52,600 --> 00:08:55,870
-The brother never told her
+Brother never told her
 he became a State Alchemist.
 
 149
 00:08:55,940 --> 00:09:00,070
-Even worse, if she realized from our
-bodies that we tried to do human alchemy.
+Even worse, if she realized - from our
+bodies - that we tried to do human alchemy.
 
 150
 00:09:02,400 --> 00:09:04,730
@@ -912,7 +912,7 @@ Ever.
 
 203
 00:13:01,500 --> 00:13:03,370
-That arm with the markings.
+That arm - with the markings.
 
 204
 00:13:03,520 --> 00:13:06,070
@@ -938,7 +938,7 @@ It was just some minor scrapes.
 
 209
 00:13:19,460 --> 00:13:21,700
-- He couldn't use his arm anymore. But
+He couldn't use his arm anymore. But
 more importantly Roy, I've heard some things.
 
 210
@@ -1267,7 +1267,7 @@ Who are you, actually?
 
 282
 00:16:44,280 --> 00:16:49,905
-Were you an Ishbal, or did you come later, using
+Were you in Ishbal, or did you come later, using
 the military's mistake to sneak in with her records?
 
 283
@@ -1307,7 +1307,7 @@ Pretty good for a man, isn't he?
 
 291
 00:17:23,120 --> 00:17:24,320
-Come, sloth.
+Come, Sloth.
 
 292
 00:17:24,321 --> 00:17:26,550
@@ -1326,7 +1326,7 @@ to effect large-scale decisions.
 295
 00:17:37,240 --> 00:17:41,770
 Their goal's not to create
-the stone directly...... but...
+the stone directly... but...
 
 296
 00:17:42,260 --> 00:17:43,196
@@ -1419,7 +1419,7 @@ wife and kid waiting for me back home.
 
 316
 00:18:50,730 --> 00:18:54,460
-You're right Hughes, maybe
+You're right, Hughes, maybe
 this is a more fitting end.
 
 317
@@ -1491,7 +1491,7 @@ they bury him, he can't do it when he wakes up.
 
 332
 00:20:41,890 --> 00:20:42,676
-Elicia
+Elicia...
 
 333
 00:20:42,700 --> 00:20:44,110
@@ -1608,7 +1608,7 @@ didn't tell you because he wanted
 358
 00:22:06,284 --> 00:22:09,296
 you to concentrate on your
-own goal instead of the Elric's.
+own goal instead of the Elrics'.
 
 359
 00:22:09,320 --> 00:22:13,550
@@ -1700,7 +1700,7 @@ Ed...
 
 379
 00:23:27,970 --> 00:23:29,600
-Did you see something, brother?
+Did you see something, Brother?
 
 380
 00:23:31,150 --> 00:23:32,050

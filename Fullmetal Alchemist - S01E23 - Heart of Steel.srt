@@ -222,7 +222,7 @@ reckless again, haven't you?
 
 52
 00:04:25,700 --> 00:04:29,840
-Anyway, I can't make it out to Risembool
+Anyway, I can't make it out to Resembool
 right now, so I'm kind of a fix here.
 
 53
@@ -286,7 +286,7 @@ I don't know what's in there.
 
 67
 00:04:59,720 --> 00:05:01,420
-The Splatterpot is bizarre.
+The splatterplot is bizarre.
 
 68
 00:05:09,640 --> 00:05:10,640
@@ -318,11 +318,12 @@ Sure.
 Oh, I forgot.
 
 75
-00:05:21,280 --> 00:05:22,420
-I haven't had lunch.
+00:05:21,280 --> 00:05:23,420
+I haven't had a chance
+to eat lunch today.
 
 76
-00:05:22,740 --> 00:05:25,556
+00:05:23,940 --> 00:05:25,556
 Oh, well, I'll get
 you some food, sir.
 
@@ -542,12 +543,12 @@ a sign for me or something.
 
 125
 00:08:24,020 --> 00:08:25,676
-My warmest welcome, Winry.
+My warmest welcome, Winry!
 
 126
 00:08:25,700 --> 00:08:28,000
 Thank you for going to the
-trouble of this late victory.
+trouble of this lengthy trip.
 
 127
 00:08:28,940 --> 00:08:30,060
@@ -653,11 +654,11 @@ You're too rough.
 
 150
 00:09:17,661 --> 00:09:18,900
-I'm reckless klutz, really.
+A reckless klutz, really!
 
 151
 00:09:28,380 --> 00:09:32,320
-Lieutenant Colonel, sorry to interrupt,
+Lieutenant Colonel, sorry to interrupt, 
 but there's a call from Colonel Mustang.
 
 152
@@ -700,7 +701,7 @@ party and everything!
 
 161
 00:09:48,800 --> 00:09:51,900
-Unless you want to become Charcoal Maze,
+Unless you want to become charcoal, Maes,
 you'd better tell me the news from Central.
 
 162
@@ -808,7 +809,7 @@ Edward.
 
 186
 00:10:43,820 --> 00:10:44,740
-You drink it?
+You drink it.
 
 187
 00:10:44,760 --> 00:10:45,356
@@ -850,7 +851,7 @@ Jeez!
 196
 00:10:52,980 --> 00:10:55,596
 Then this is the reason you're always
-going to... It's gonna be the size of a bean!
+going to be the size of a bean!
 
 197
 00:10:55,620 --> 00:10:56,156
@@ -960,7 +961,7 @@ meet you, Winry.
 
 222
 00:12:03,830 --> 00:12:05,870
-I'm Ed & Al's friend,
+I'm Ed and Al's friend,
 the Lieutenant Colonel.
 
 223
@@ -996,7 +997,7 @@ Uh, yes, I guess.
 
 230
 00:12:16,410 --> 00:12:17,870
-Alright, then I'm gonna let you.
+All right, then I'm gonna let you.
 
 231
 00:12:19,150 --> 00:12:20,346
@@ -1022,7 +1023,7 @@ This is gonna be great!
 236
 00:12:25,690 --> 00:12:28,270
 You have no idea how lucky
-you are coming into town today!
+you are, coming into town today!
 
 237
 00:12:28,350 --> 00:12:29,930
@@ -1139,7 +1140,7 @@ Oh, thank you!
 
 264
 00:13:21,140 --> 00:13:23,040
-Your dad's friend, the bookworm.
+You're dad's friend, the bookworm.
 
 265
 00:13:23,700 --> 00:13:24,300
@@ -1378,7 +1379,7 @@ Huh.
 
 319
 00:15:45,350 --> 00:15:46,470
-Here it's from Gracia.
+Here, it's from Gracia.
 
 320
 00:15:47,090 --> 00:15:47,666
@@ -1396,7 +1397,7 @@ the recipe from her.
 323
 00:15:51,230 --> 00:15:54,206
 When you get your body back and
-can eat Al, I'll make one for you, too.
+can eat, Al, I'll make one for you, too.
 
 324
 00:15:54,230 --> 00:15:54,830
@@ -1659,7 +1660,7 @@ And I'm gonna fix you right now.
 383
 00:18:53,140 --> 00:18:55,260
 I brought these
-parts from Risembool.
+parts from Resembool.
 
 384
 00:18:55,480 --> 00:18:56,525
@@ -1690,7 +1691,7 @@ I'm sure.
 390
 00:19:09,540 --> 00:19:11,500
 Maybe you can go
-back to normal, brother.
+back to normal, Brother.
 
 391
 00:19:11,625 --> 00:19:12,640
@@ -1754,7 +1755,7 @@ Why shouldn't it be?
 
 405
 00:20:13,850 --> 00:20:18,296
-A while back in Risembool, there was
+A while back in Resembool, there was
 something you wanted to tell me, but you couldn't.
 
 406
@@ -1879,7 +1880,7 @@ Why won't you say anything?
 
 433
 00:21:20,080 --> 00:21:21,500
-Unless it's truth!
+Unless it's true!
 
 434
 00:21:22,480 --> 00:21:23,960

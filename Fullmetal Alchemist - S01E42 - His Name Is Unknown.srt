@@ -151,11 +151,11 @@ Shut that thing up!
 Ed...
 
 36
-00:03:43,680 --> 00:03:45,060
-Get up Ed!
+00:03:43,680 --> 00:03:45,360
+Get up, Ed!
 
 37
-00:03:45,080 --> 00:03:46,480
+00:03:45,380 --> 00:03:46,480
 Get up!
 
 38
@@ -202,7 +202,7 @@ Come here.
 48
 00:04:31,260 --> 00:04:33,440
 Give Mom a hug,
-my Prince of Cool.
+my prince of cool.
 
 49
 00:04:42,780 --> 00:04:43,580
@@ -265,7 +265,7 @@ Clearly, you're with them.
 63
 00:05:32,560 --> 00:05:35,040
 Okay, so we know you've
-been working in the Military.
+been working in the military.
 
 64
 00:05:35,300 --> 00:05:35,920
@@ -398,7 +398,7 @@ I would have cleaned up.
 
 93
 00:07:04,260 --> 00:07:05,340
-You hands are...
+You, hands up!
 
 94
 00:07:11,230 --> 00:07:12,610
@@ -450,7 +450,7 @@ I've only been playing the part.
 105
 00:07:36,470 --> 00:07:39,530
 I had to get to the bottom of the
-corruption plaguing our Military.
+corruption plaguing our military.
 
 106
 00:07:39,770 --> 00:07:42,650
@@ -460,7 +460,7 @@ play with vermin to sniff out a rat.
 107
 00:07:43,390 --> 00:07:47,470
 You're naive if you think you can have a
-useful Military without a little corruption.
+useful military without a little corruption.
 
 108
 00:07:51,250 --> 00:07:51,690
@@ -572,7 +572,7 @@ Stone to be human, I'll become her.
 
 132
 00:09:23,840 --> 00:09:24,860
-No you won't.
+No, you won't.
 
 133
 00:09:25,600 --> 00:09:26,560
@@ -589,7 +589,7 @@ What are you gonna do to him?
 
 136
 00:09:37,180 --> 00:09:38,420
-Tell me dammit!
+Tell me, dammit!
 
 137
 00:09:38,520 --> 00:09:39,220
@@ -602,7 +602,7 @@ mouth and watch.
 
 139
 00:10:19,580 --> 00:10:20,920
-Now what have you done?
+Now, what have you done?
 
 140
 00:10:25,250 --> 00:10:26,330
@@ -773,7 +773,7 @@ wherever he is so I can turn him in.
 176
 00:12:30,610 --> 00:12:32,570
 You're going to hand
-him over to the Military?
+him over to the military?
 
 177
 00:12:34,190 --> 00:12:36,350
@@ -885,11 +885,11 @@ Uh-huh.
 
 201
 00:13:33,055 --> 00:13:34,055
-Well no.
+Well, no.
 
 202
 00:13:35,080 --> 00:13:36,400
-This time it's goodbye.
+This time, it's goodbye.
 
 203
 00:13:46,080 --> 00:13:48,160
@@ -1064,11 +1064,11 @@ Come on, let's go.
 
 241
 00:16:31,020 --> 00:16:32,640
-This life of wickedness.
+This life of wickedness
 
 242
 00:16:32,720 --> 00:16:33,860
-...has one closing act.
+has one closing act.
 
 243
 00:16:35,660 --> 00:16:36,420
@@ -1307,7 +1307,7 @@ What are you doing out here?
 
 298
 00:20:18,640 --> 00:20:22,260
-huh. Am I... I'm back to normal?
+Huh. Am I... I'm back to normal?
 
 299
 00:20:24,160 --> 00:20:26,000
@@ -1362,7 +1362,7 @@ Well, Al...
 
 310
 00:21:00,660 --> 00:21:04,190
-A minute ago, The
+A minute ago, the
 transmutation circle in Lior was activated.
 
 311

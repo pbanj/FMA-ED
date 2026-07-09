@@ -286,7 +286,7 @@ Okay.
 64
 00:05:47,422 --> 00:05:51,116
 Hello... I'm uh... looking
-for the Elric Brothers.
+for the Elric brothers.
 
 65
 00:05:56,250 --> 00:05:56,770
@@ -375,7 +375,7 @@ Oh, don't worry.
 85
 00:06:35,095 --> 00:06:38,593
 I was just leaving false tracks to make
-everyone believe we were headed North, that's all.
+everyone believe we were headed north, that's all.
 
 86
 00:06:38,830 --> 00:06:41,190
@@ -434,8 +434,8 @@ It wasn't anybody we know.
 
 99
 00:06:58,440 --> 00:07:00,786
-Maybe it was the Military
-spy on us or something.
+Maybe it was the military
+spying on us or something.
 
 100
 00:07:00,830 --> 00:07:01,650
@@ -482,7 +482,7 @@ troops, and we were forced into armed combat.
 
 109
 00:07:47,960 --> 00:07:51,980
-I heard the Military suppression was
+I heard the military suppression was
 excessively violent, and that's what started the war.
 
 110
@@ -510,7 +510,7 @@ Colonel Mustang has compiled, it's clear
 115
 00:08:03,941 --> 00:08:07,580
 that he's an excellent soldier who's
-been loyal and faithful to the Military.
+been loyal and faithful to the military.
 
 116
 00:08:08,760 --> 00:08:13,592
@@ -593,7 +593,7 @@ I hope she's all right.
 
 133
 00:08:59,480 --> 00:09:05,100
-There are serious doubts about her Military record, and
+There are serious doubts about her military record, and
 it has now been suggested that she was an accomplice.
 
 134
@@ -614,7 +614,7 @@ love with her, huh?
 137
 00:09:58,220 --> 00:10:02,560
 By the way, Colonel, sir, I heard
-you made a Wrather important enemy.
+you made a rather important enemy.
 
 138
 00:10:03,110 --> 00:10:05,379
@@ -1273,7 +1273,7 @@ Al, let's go!
 
 285
 00:18:42,220 --> 00:18:43,080
-Okay, brother!
+Okay, Brother!
 
 286
 00:18:44,780 --> 00:18:45,320
@@ -1294,7 +1294,7 @@ Now!
 
 290
 00:19:07,240 --> 00:19:08,140
-Thanks, brother.
+Thanks, Brother.
 
 291
 00:19:09,220 --> 00:19:12,040
@@ -1308,7 +1308,7 @@ But why not?
 293
 00:19:13,560 --> 00:19:15,196
 I remember the
-gate now, brother.
+gate now, Brother.
 
 294
 00:19:15,520 --> 00:19:19,780
@@ -1350,7 +1350,7 @@ Brother, where are you going?
 
 303
 00:19:35,760 --> 00:19:37,260
-Good old dad told us, didn't he?
+Good old Dad told us, didn't he?
 
 304
 00:19:37,500 --> 00:19:40,220
@@ -1402,7 +1402,7 @@ Right.
 315
 00:20:16,060 --> 00:20:19,400
 After my little performance at the
-council, whoever's pulling the strings in.
+council, whoever's pulling the strings in
 
 316
 00:20:19,400 --> 00:20:21,056
@@ -1421,7 +1421,7 @@ couldn't they have just done it here in Central?
 
 319
 00:20:29,940 --> 00:20:31,520
-Not after Hughes they couldn't.
+Not after Hughes, they couldn't.
 
 320
 00:20:31,521 --> 00:20:34,320
@@ -1440,7 +1440,7 @@ of war to mask an assassination.
 
 323
 00:20:41,510 --> 00:20:43,860
-Even now I'm having
+Even now, I'm having
 trouble believing it's true.
 
 324
@@ -1534,7 +1534,7 @@ It's me.
 
 344
 00:21:57,107 --> 00:21:59,496
-Thank you for coming Alphonse.
+Thank you for coming, Alphonse.
 
 345
 00:22:00,660 --> 00:22:02,620
